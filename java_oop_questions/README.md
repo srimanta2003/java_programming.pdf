@@ -1,4 +1,4 @@
-# Java OOP: 20 Semester Questions
+# Java OOP: 20 Questions
 
 This small collection contains 20 Java OOP example programs (one per file). Each file demonstrates a common OOP topic useful for a college semester.
 
